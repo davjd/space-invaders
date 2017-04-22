@@ -1,4 +1,4 @@
-# alien-invaders
+# space-invaders
 Simple gui game of Space Invaders written with the Qt framework.
 
 # installation:
