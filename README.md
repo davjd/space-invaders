@@ -1,9 +1,9 @@
 # alien-invaders
-Simple gui game of Alien Invaders written with the Qt framework.
+Simple gui game of Space Invaders written with the Qt framework.
 
 # installation:
 
-  git clone "https://github.com/davjd/alien-invaders.git"
+  git clone "https://github.com/davjd/space-invaders.git"
 	
   make
 	
